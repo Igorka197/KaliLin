@@ -2,9 +2,9 @@ import os
 import telebot
 
 # Вставь свой токен строго внутри кавычек!
-TOKEN = "ТВОЙ_ТОКЕН_ОТ_BOTFATHER"
+TOKEN = "8757333957:AAGjk6cUQBWZJ1zT4xhdnvJWysm2-goHgys"
 
-if not TOKEN or TOKEN == "ТВОЙ_ТОКЕН_ОТ_BOTFATHER":
+if not TOKEN or TOKEN == "8757333957:AAGjk6cUQBWZJ1zT4xhdnvJWysm2-goHgys":
     print("ОШИБКА: Ты не вставил токен от @BotFather в код!")
     exit()
 
